@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Texas, US",
-  "export_job_id": "7c120785-ddd3-49e7-a560-8e2dc1d754bd",
+  "export_job_id": "4e0af094-ddcd-44f9-b8aa-154e01ff33a0",
   "github_org": "Beamstation-Datasets",
   "id_short": 776170,
   "location_name": "Texas",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-texas-us-sample-776170",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/776170/beamstation_776170_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.0,
+  "sample_pct": 9.96,
   "sample_records": 75,
   "sample_sha256": "8966acf582fd505886e5a01ed46d23bfd6d9a8bf8df915657a277c70f1482c29",
   "sample_size_bytes": 267659,
-  "total_records": 833,
-  "updated_at": "2026-04-08T07:57:42.629861+00:00"
+  "total_records": 753,
+  "updated_at": "2026-04-15T11:10:37.002461+00:00"
 }
