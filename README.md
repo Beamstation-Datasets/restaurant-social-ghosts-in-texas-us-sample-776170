@@ -9,9 +9,9 @@
 | Dataset ID | `776170` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 833 records |
-| Free sample size | 75 records (9.0%) |
-| Last export | 2026-04-08T07:57:42.629861+00:00 |
+| Full dataset size | 753 records |
+| Free sample size | 75 records (9.96%) |
+| Last export | 2026-04-15T11:10:37.002461+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-texas-us-sample-776170/releases/download/sample-latest/beamstation_776170_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
