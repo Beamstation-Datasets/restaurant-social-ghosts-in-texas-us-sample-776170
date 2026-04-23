@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Texas, US
 
-> Free BeamStation sample export with 75 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `776170` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 753 records |
-| Free sample size | 75 records (9.96%) |
-| Last export | 2026-04-15T11:10:37.002461+00:00 |
+| Full dataset size | 71 records |
+| Free sample size | 7 records (9.86%) |
+| Last export | 2026-04-22T19:15:44.205570+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-texas-us-sample-776170/releases/download/sample-latest/beamstation_776170_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
