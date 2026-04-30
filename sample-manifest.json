@@ -1,12 +1,12 @@
 {
-  "export_job_id": "16a03171-a9c2-43dd-89b4-4f984e311969",
+  "export_job_id": "1d28ed76-5176-4854-831c-a84ab4c69552",
   "id_short": 776170,
-  "published_at": "2026-04-23T07:34:02Z",
+  "published_at": "2026-04-30T07:43:44Z",
   "repo_name": "restaurant-social-ghosts-in-texas-us-sample-776170",
   "sample_asset_name": "beamstation_776170_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/776170/beamstation_776170_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "d03592984b555f726f8887541f5062fe446859b847a390fd91cbc000bb66d94d",
-  "sample_size_bytes": 42104,
-  "total_records": 71
+  "sample_records": 41,
+  "sample_sha256": "8114dce2bf47c68dae72b6ee1962c9965f0ee2da2453aeffa643639bbb372c3f",
+  "sample_size_bytes": 171416,
+  "total_records": 415
 }
